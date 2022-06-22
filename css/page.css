@@ -1,0 +1,58 @@
+.container{
+    width: 1300px;
+    margin: auto;
+}
+.header-wrapper{
+ width: 780px;
+ margin: auto;
+ border: solid 2px;color: green ;
+} 
+.header-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.section-1{
+    display: flex;
+    justify-content: space-around;
+}
+.topic-flexbox{
+    display: flex;
+    justify-content: space-between;
+    margin: 2px;
+    border: solid 2px;color: black;
+    
+}
+.sub-products{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.service-content{
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+.services-services{
+    width: 33.3333%;
+    height: 75px;
+}
+.pricing-content{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    padding: 50px;
+    border: solid 2px;color: black;
+}
+.team{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    border: solid 2px;color: black;
+}
+.contact-section{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    border: solid 2px;color: black;
+}
